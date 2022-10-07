@@ -4,15 +4,6 @@
 //
 //  Created by Bohdan Buhai on 05.10.2022.
 //
-//var string = "foo!"
-//string.replace("!", with: "?")
-//print(string)
-
-//var stringToReplace = "This my string"
-//if let range = stringToReplace.range(of: "my") {
-//   stringToReplace?.replaceSubrange(range, with: "your")
-//}
-
 import UIKit
 
 class ViewController: UIViewController {
